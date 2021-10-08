@@ -8,4 +8,9 @@ html, body {
 
 a {
   color: #D3D5D7;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #CF5C36
 }
